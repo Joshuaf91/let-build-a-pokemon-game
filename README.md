@@ -2,8 +2,8 @@
 #### objective
 1. trainers
 	- store pokemon.
-	- battle other players.
 	- heal pokemon.
+	- battle other trainers.
 	- capture pokemon.
 	- can hold up to 5 pokemon no duplicates.
 1. pokemon
